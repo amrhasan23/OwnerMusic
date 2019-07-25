@@ -1,0 +1,6 @@
+﻿token= NjA0MDE1MDc1NjEwNTkxMjM2.XTn0CA.OsYMnXOssXLPNCWJDAyszVoLQ4A
+owner= 504548641780924446
+prefix=.
+game= music ₣E̶L̶O̶ทS̶ 
+stayinchannel=true 
+songinstatus=false 
